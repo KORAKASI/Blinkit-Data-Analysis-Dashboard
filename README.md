@@ -50,7 +50,7 @@ Key metrics created using DAX:
 - Tier 2 outlets and Supermarket Type1 generate the highest revenue.
 - Sales show initial growth followed by stagnation, indicating market saturation.
 - High visibility but low sales in grocery stores highlight conversion inefficiencies.
-- 
+
 ## Business Recommendations
 - Expand high-performing categories to maximize revenue
 - Focus on Tier 2 market expansion strategies
